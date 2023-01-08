@@ -3,7 +3,7 @@
 
 **R**__[uby][t]__**ex**__[t]__
 
-## How to use
+# How to use
 ## Installation
 Rex requires the tk library for Ruby installed.
 
