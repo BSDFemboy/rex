@@ -4,6 +4,9 @@
 **R**__[uby][t]__**ex**__[t]__
 
 ## How to use
+## Installation
+Rex requires the tk library for Ruby installed.
+
 ### Dependencies Ubuntu/Debian
 ``apt-get install libtcltk-ruby``
 ### Dependencies Arch
